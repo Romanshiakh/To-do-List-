@@ -1,4 +1,4 @@
-﻿# To-do-List-
+﻿# To-do-List-App
 This project includes an HTML file that features a task management interface, allowing users to add and display tasks.
 
 Table of Contents
